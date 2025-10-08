@@ -440,8 +440,8 @@ DETAILED THREATS
 
 # Sidebar
 with st.sidebar:
+    st.markdown("### Atanasius Surya Gunadharma_220711667")
     st.header("Settings")
-    
     st.subheader("Session Management")
     
     if st.button("Reset All Data", type="secondary", use_container_width=True):
